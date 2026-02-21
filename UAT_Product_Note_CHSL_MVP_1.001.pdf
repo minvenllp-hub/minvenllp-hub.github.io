@@ -1,0 +1,78 @@
+# UAT Product Note for CHSL MVP 1.001
+
+**Version:** 1.001  
+**Date:** 2026-02-21  
+**URL:** [Access Application](https://example.com)
+
+---
+
+## 1. Business Context  
+**Problem:**  
+The current process for managing vouchers to accounting involves significant delays, causing inefficiencies and errors in the accounting workflows.
+
+**Solution:**  
+We propose a unified browser-based platform that will facilitate roles for office staff, backend operations, and management/controller (MC) functions, improving the timeframe and accuracy of voucher processing.
+
+---
+
+## 2. MVP Scope  
+**Included:**  
+- Basic voucher creation  
+- Cheque and cash management  
+- Reporting capabilities  
+- Master data management  
+
+**Excluded:**  
+- User roles configuration  
+- Custom expense heads  
+- Approval workflows  
+
+---
+
+## 3. Key Scenario Details  
+- **Cheques for Registered Vendors:**  
+  Registered vendors will be able to process cheques seamlessly through the platform.  
+- **Cash for One-Offs:**  
+For one-time transactions, the platform will facilitate cash management for amounts up to ₹5,000.  
+- **Sample Master Data Provided:**  
+Sample data will be available to assist in testing voucher creation.
+
+---
+
+## 4. Testing Approach  
+The focus of this UAT will be on UX/UI and clerk usability. We will not be validating the accuracy of master data during this phase.  
+
+---
+
+## 5. Recommended Testing Steps  
+1. Study the provided master data carefully.  
+2. Create vouchers for various vendors and categories with different amounts.  
+3. Test the cheque cancellation process to ensure smooth execution.
+
+---
+
+## 6. Critical Feedback Questions for Testers  
+- Are the navigation and interface intuitive and user-friendly?  
+- Did you encounter any difficulties while creating vouchers?  
+- How would you rate the responsiveness of the application?  
+
+---
+
+## 7. How to Log Feedback  
+Feedback can be submitted through the following methods:  
+- [Google Form Link](https://example.com/form)  
+- Email: feedback@example.com  
+- WhatsApp: +1234567890
+
+---
+
+## 8. Support Contact Information  
+For any issues or questions, please reach out:  
+- **Email:** support@example.com  
+- **Phone:** +1234567890
+
+---
+
+**Testing Period:**  
+From: 2026-02-21 to 2026-03-21  
+Thank you for your participation in this testing phase!
